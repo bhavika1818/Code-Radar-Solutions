@@ -5,5 +5,6 @@ int main() {
     scanf("%d", &a);
     scanf("%d", &b);
     printf("True", a>b);
+    printf("False", b>a);
     return 0;
 }
